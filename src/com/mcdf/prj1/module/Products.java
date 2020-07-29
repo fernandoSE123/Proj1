@@ -1,4 +1,4 @@
-package com.mcdf.test.module;
+package com.mcdf.prj1.module;
 
 public class Products {
 
