@@ -31,7 +31,7 @@ public class Notification {
     }
 
     @Override
-    public String toString() {
+     public String toString() {
         return "Notification{" +
                 "message='" + message + '\'' +
                 ", timestamp=" + timestamp +
